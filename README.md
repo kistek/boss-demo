@@ -1,2 +1,2 @@
 # boss-live-demo
-with real money
+with real money, see?
