@@ -1,4 +1,4 @@
-[![Boss Bounty Badge](https://img.shields.io/endpoint.svg?url=https://api.boss.dev/badge/enabled/kistek/boss-live-demo&style=popout)](https://www.boss.dev/issues/repo/kistek/boss-live-demo)
+[![Boss Bounty Badge](https://img.shields.io/endpoint.svg?url=https://api.boss.dev/badge/enabled/kistek/boss-demo&style=popout)](https://www.boss.dev/issues/repo/kistek/boss-demo)
 
-# boss-live-demo
-with real money, see?
+# boss-demo
+Demo of using [boss bounties](https://www.boss.dev) in issue
